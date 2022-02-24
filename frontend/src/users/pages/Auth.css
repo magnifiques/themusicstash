@@ -1,0 +1,27 @@
+.backdrop  {
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 0;
+}
+
+
+
+.authentication__header {
+    color: black;
+    text-align: center;
+  }
+  
+  .authentication {
+    width: 90%;
+    max-width: 25rem;
+    margin: 6rem auto;
+    padding: 2rem;
+    text-align: center;
+    color: black;
+    background-color: rgba(137, 43, 226, 0.795);
+  }
+  
+  .authentication form {
+    margin: 2rem;
+
+    text-align: center;
+  }
